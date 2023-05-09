@@ -10,3 +10,5 @@
   - [project link](https://github.com/littlePlumule/chat-app-with-firebase)
 - [stopwatch](https://littleplumule.github.io/stopwatch/)
   - [project link](https://github.com/littlePlumule/stopwatch)
+- [online-weight-track](https://littleplumule.github.io/online-weight-track/)
+  - [project link](https://github.com/littlePlumule/online-weight-track)
