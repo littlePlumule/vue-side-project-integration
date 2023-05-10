@@ -14,3 +14,5 @@
   - [project link](https://github.com/littlePlumule/online-weight-track)
 - [calendar](https://littleplumule.github.io/calendar/)
   - [project link](https://github.com/littlePlumule/calendar)
+- [notes](https://littleplumule.github.io/notes/)
+  - [project link](https://github.com/littlePlumule/notes)
