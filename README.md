@@ -12,3 +12,5 @@
   - [project link](https://github.com/littlePlumule/stopwatch)
 - [online-weight-track](https://littleplumule.github.io/online-weight-track/)
   - [project link](https://github.com/littlePlumule/online-weight-track)
+- [calendar](https://littleplumule.github.io/calendar/)
+  - [project link](https://github.com/littlePlumule/calendar)
